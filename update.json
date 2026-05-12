@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 99,
-  "latestVersionName": "test-update",
+  "latestVersionCode": 50,
+  "latestVersionName": "1.5.6-safe-update",
   "minSupportedVersionCode": 47,
   "forceUpdate": true,
   "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v49/mouseclick-tv-v49.apk",
