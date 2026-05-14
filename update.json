@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 56,
-  "latestVersionName": "1.5.8-update-test",
+  "latestVersionCode": 57,
+  "latestVersionName": "1.5.9-update-test",
   "minSupportedVersionCode": 47,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v56/mouseclick-tv-v56.apk",
-  "message": "Kapag tapos na nadownload ang new version,uninstall niyo muna yung old version then install new version."
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v57/mouseclick-tv-v57.apk",
+  "message": "Test update ito. Pagkatapos ma-install, check Settings > App update checker > Installed version."
 }
