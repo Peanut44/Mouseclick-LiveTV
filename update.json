@@ -1,8 +1,14 @@
 {
-  "latestVersionCode": 69,
-  "latestVersionName": "1.6.8-v69-channel-number-buildfix",
-  "minSupportedVersionCode": 0,
-  "forceUpdate": false,
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v69/mouseclick-tv-v69.apk",
-  "message": "May bagong version. Bago mag-install ng new version, uninstall muna ang old Mouseclick APK. Kasama sa update na ito ang build fix, channel numbering, 3-digit remote keypad channel entry, channel up/down fix, at drawer continuation after recently viewed. Pagkatapos, i-download at install ang bagong APK gamit ang browser/download manager."
+  "versionCode": 70,
+  "versionName": "v70 Premium Access",
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v70/mouseclick-tv-v70.apk",
+  "message": "⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️\n\nUNINSTALL MUNA ANG OLD MOUSECLICK APK BAGO I-INSTALL ANG NEW VERSION.\n\n⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️",
+  "changelog": [
+    "Premium Access preview mode",
+    "100 premium pass codes",
+    "30-day premium validity",
+    "GCash QR Donate Now",
+    "Favorites section retained",
+    "Premium Online included"
+  ]
 }
