@@ -1,15 +1,13 @@
 {
-  "versionCode": 72,
-  "versionName": "1.6.7-72",
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v72/mouseclick-tv-v72.apk",
-  "message": "⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️\n\nUNINSTALL MUNA ANG OLD MOUSECLICK APK BAGO I-INSTALL ANG NEW VERSION.\n\n⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️",
+  "versionCode": 73,
+  "versionName": "1.6.8-73",
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v73/mouseclick-tv-v73.apk",
+  "message": "⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️\n\nUNINSTALL MUNA ANG OLD MOUSECLICK APK BAGO I-INSTALL ANG NEW VERSION.\n\nNEW SECURITY UPDATE INCLUDED.\n\n⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️",
   "changelog": [
-    "Premium Access System",
-    "100 Premium Pass Codes",
-    "30-Day Premium Access",
-    "Premium Online included",
-    "GCash QR Donate",
-    "MP4 Play/Pause + Draggable Seekbar",
-    "Auto-hide MP4 Controls"
+    " Premium Activation",
+    "1 Premium Code = 1 Device",
+    "24-Hour Trial Code Support",
+    "Multi-Device Trial Access",
+    
   ]
 }
