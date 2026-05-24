@@ -1,13 +1,16 @@
 {
-  "versionCode": 73,
-  "versionName": "1.6.8-73",
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v73/mouseclick-tv-v73.apk",
-  "message": "⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️\n\nUNINSTALL MUNA ANG OLD MOUSECLICK APK BAGO I-INSTALL ANG NEW VERSION.\n\nNEW SECURITY UPDATE INCLUDED.\n\n⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️",
+  "versionCode": 74,
+  "versionName": "1.6.9-74",
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v74/mouseclick-tv-v74.apk",
+  "forceUpdate": false,
+  "message": "⚠️ IMPORTANT NEW UPDATE ⚠️\n\nNEW PREMIUM SECURITY + KARAOKE FIX UPDATE.\n\nNO NEED TO RE-ENTER PREMIUM CODE AFTER APP UPDATE.\n\nEXPIRED PREMIUM/TRIAL CAN NO LONGER BE RESET BY REINSTALL.\n\nANDROID TV KARAOKE LAYOUT AUTO-FIX INCLUDED.",
   "changelog": [
-    " Premium Activation",
-    "1 Premium Code = 1 Device",
-    "24-Hour Trial Code Support",
-    "Multi-Device Trial Access",
-    
+    "Premium Device Lock Security",
+    "Expired Trial/Premium Protection",
+    "Old Premium Code Support",
+    "Karaoke Touch Fix",
+    "Android TV Auto Layout Fix",
+    "Premium Restore After APK Update",
+  
   ]
 }
