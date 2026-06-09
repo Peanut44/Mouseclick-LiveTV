@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 78,
-  "latestVersionName": "1.7.3-78",
-  "minSupportedVersionCode": 77,
+  "latestVersionCode": 79,
+  "latestVersionName": "1.7.4-79",
+  "minSupportedVersionCode": 79,
   "forceUpdate": false,
-  "forceAfterEpochMillis": 1780704000000,
+  "forceAfterEpochMillis": 1780963200000,
   "gracePeriodDays": 3,
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v78/mouseclick-tv-v78.apk",
-  "message": "New Mouseclick update is available. Please update within 3 days. After the grace period, the old app will no longer continue. Install over the current app so premium access stays restored."
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v79/mouseclick-tv-v79.apk",
+  "message": "New Mouseclick security update is available. Please update within 3 days. Older versions will expire after the grace period. Install over the current app so premium access stays restored."
 }
