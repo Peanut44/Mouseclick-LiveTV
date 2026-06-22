@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 80,
-  "latestVersionName": "1.8.0-80",
-  "minSupportedVersionCode": 79,
-  "forceUpdate": false,
-  "forceAfterEpochMillis": 1780963200000,
-  "gracePeriodDays": 3,
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v80/mouseclick-tv-v80.apk",
-  "message": "New Mouseclick TV update is available. This update includes Premium LiveTV access, Donate QR with Facebook proof submission, improved security, new playlist protection, adult PIN per session, and Android TV series navigation fixes. Please update within 3 days."
+"latestVersionCode": 83,
+"latestVersionName": "1.8.3-83",
+"minSupportedVersionCode": 80,
+"forceUpdate": false,
+"forceAfterEpochMillis": 1780963200000,
+"gracePeriodDays": 3,
+"apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v83/mouseclick-tv-v83.apk",
+"message": "New Mouseclick TV update is available. This update includes real Back Navigation for Android TV and Mobile, improved channel browsing, strict 1 Code = 1 Device protection, premium security improvements, playlist protection updates, and overall stability enhancements. Please update within 1 day."
 }
