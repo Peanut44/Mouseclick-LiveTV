@@ -5,6 +5,6 @@
   "forceUpdate": false,
   "forceAfterEpochMillis": 1780963200000,
   "gracePeriodDays": 3,
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v83/mouseclick-tv-v83.apk",
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v83/mouseclick-tv-v83",
   "message": "New Mouseclick TV update is available. This update includes real Back Navigation for Android TV and Mobile, improved channel browsing, strict 1 Code = 1 Device protection, premium security improvements, playlist protection updates, and overall stability enhancements. Please update within 1 day."
 }
