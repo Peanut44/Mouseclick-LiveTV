@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 86,
-  "latestVersionName": "1.8.6-86",
+  "latestVersionCode": 85,
+  "latestVersionName": "1.8.5-85",
   "minSupportedVersionCode": 80,
   "forceUpdate": false,
-  "forceAfterEpochMillis": 1783814400000,
+  "forceAfterEpochMillis": 4102444800000,
   "gracePeriodDays": 3,
-  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v86/mouseclick-tv-v86.apk",
-  "message": "A new Mouseclick TV update (v86) is now available. This update improves Live TV speed, playback stability, premium restore, device activation reliability, and overall performance. Please update within 3 days for the best experience."
+  "apkUrl": "https://github.com/Peanut44/Mouseclick-LiveTV/releases/download/v85/mouseclick-tv-v85.apk",
+  "message": "You are using the latest version of Mouseclick TV."
 }
