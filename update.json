@@ -1,1 +1,9 @@
-
+{
+  "latestVersionCode": 102,
+  "latestVersionName": "MC102",
+  "minSupportedVersionCode": 102,
+  "forceUpdate": true,
+  "forceAfterEpochMillis": 0,
+  "apkUrl": "https://github.com/Peanut44/mouseclick-download/releases/latest/download/MC102.apk",
+  "message": "Important Update: Mouseclick MC96 is no longer supported. Please upgrade to Mouseclick MC102 to continue using the app."
+}
